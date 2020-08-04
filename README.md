@@ -11,5 +11,5 @@
 <br>It can be noted the text "sun" is not in the dataset, implying the count per each label(object or action) is zero. Therefore it can be presence is either of the class with 50-50 possibility, but for MNB() and CNB(alpha = 1.0e-10) show that it is 90% likely to be present in class "object", which forms 180 out 200 datapoints.
 <br>MNB(alpha = 1.0e-10) and CNB() performs most accurately. I found CNB() a more balanced algorithm.
 <br>
-<br><img src=result/image1.jpg>
+<br><img src=result/image.jpg>
 
