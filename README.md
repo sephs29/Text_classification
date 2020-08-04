@@ -12,4 +12,7 @@
 <br>MNB(alpha = 1.0e-10) and CNB() performs most accurately. I found CNB() a more balanced algorithm.
 <br>
 <br><img src=result/image.jpg>
-
+<br>
+# Sentiment Analysis
+<br>
+<br> On a very small set of text, I trained the model(CNB()) which predicts if the sample text is a positive movie review, negative or neutral. This calucation is done on the basis of number of positive and negative keywords and declares if the text is "positive", "negative" or "neutral".  
