@@ -21,4 +21,16 @@
 <br>
 <br>Sample Test Text
 <br>
-<br><img src=result/sentiment_analysis_test_text.jpg>
+<br><img src=result/sentiment_analysis_test_text.JPG>
+<br>
+<br>Sample Test Text
+<br>
+<br><img src=rresult/sentiment_analysis_keywords.JPG>
+<br>
+<br>Sample Test Text
+<br>
+<br><img src=result/sentiment_analysis_counts.JPG>
+<br>
+<br>Sample Test Text
+<br>
+<br><img src=result/sentiment_analysis_result.JPG>
