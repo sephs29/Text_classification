@@ -23,14 +23,14 @@
 <br>
 <br><img src=result/sentiment_analysis_test_text.JPG>
 <br>
-<br>Sample Test Text
+<br>Keywords Extracted
 <br>
-<br><img src=rresult/sentiment_analysis_keywords.JPG>
+<br><img src=result/sentiment_analysis_keywords.JPG>
 <br>
-<br>Sample Test Text
+<br>Keyword Label Count
 <br>
 <br><img src=result/sentiment_analysis_counts.JPG>
 <br>
-<br>Sample Test Text
+<br>Result
 <br>
 <br><img src=result/sentiment_analysis_result.JPG>
